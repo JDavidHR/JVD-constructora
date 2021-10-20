@@ -3856,3 +3856,19 @@ input:-internal-autofill-selected {
     left: -40px;
     border-radius: 4px 0px 0px 4px;
 }
+
+.rss {
+    margin: 5px 5px 0 5px;
+    padding: 0;
+    width: 100%;
+}
+
+.rss li {
+    display: inline-block;
+    width: 45%;
+    margin: 0 2% 0 0;
+    list-style-type: none;
+    background: #fff url("icon-rssfeed.gif") 0 3px no-repeat;
+    padding: 0 0 5px 15px;
+    display: -moz-inline-box;
+}
