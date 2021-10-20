@@ -3068,9 +3068,9 @@ body:not(.rtl) #footer .nav .nav-item:last-child .nav-link {
     color: #999;
 }
 
-.social-icons li:hover.social-icons-twitter a,
-.social-icons.social-icons-colored li.social-icons-twitter a {
-    color: #00ACEE;
+.social-icons li:hover.social-icons-instagram a,
+.social-icons.social-icons-colored li.social-icons-instagram a {
+    color: #f52f2f;
 }
 
 .social-icons li:hover.social-icons-facebook a,
