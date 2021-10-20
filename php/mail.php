@@ -20,7 +20,7 @@ require './phpmailer/src/SMTP.php';
   // Receiver's Email
 --------------------------------------------- */
 
-$toEmail = "your-email@website.com"; // Replace Your Email Address
+$toEmail = "simond202020@gmail.com"; // Replace Your Email Address
 
 
 /* --------------------------------------------
@@ -52,6 +52,8 @@ if (isset($_POST['name'])) {
 ---------------------------------------------------*/
 
 $mail = new PHPMailer(true);
+
+
 
 /* Add your SMTP Codes after this Line */
 
